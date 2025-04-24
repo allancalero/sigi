@@ -80,6 +80,7 @@ Public Class Form1
                 'INGRESAR AL MENU PRINCIPAL
                 Me.Hide()
                 F_MENUP.Show()
+                'INGRESAR AL MENU PRINCIPAL
             End If
 
 
